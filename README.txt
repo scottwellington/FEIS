@@ -50,9 +50,9 @@ REFERENCING
 
 If you use the FEIS dataset, please reference:
 
-* S. Wellington and J. Clayton, "Fourteen-channel EEG with Imagined Speech
+* S. Wellington, J. Clayton, "Fourteen-channel EEG with Imagined Speech
   (FEIS) dataset," v1.0, University of Edinburgh, Edinburgh, UK, 2019.
-  doi:10.5281/zenodo.3369179
+  doi:10.5281/zenodo.3369178
 
 ><> ><> ><> ><> ><> ><> ><> ><> ><> ><> ><> ><> ><> ><> ><> ><> ><> ><>
 
