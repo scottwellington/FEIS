@@ -78,7 +78,7 @@ The FEIS database was compiled by:
 Scott Wellington (MSc Speech and Language Processing, University of Edinburgh)
 Jonathan Clayton (MSc Speech and Language Processing, University of Edinburgh)
 
-Principle Investigators:
+Principal Investigators:
 
 Oliver Watts (Senior Researcher, CSTR, University of Edinburgh)
 Cassia Valentini-Botinhao (Senior Researcher, CSTR, University of Edinburgh)
