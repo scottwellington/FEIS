@@ -1,0 +1,17 @@
+
+With CyKit-master unzipped to C:\, use CyKit.ps1 as a helper script to connect to the Emotiv Epoc+.
+
+With OpenViBE Acquisition Server 64bit, change the following settings from default to work for Emotiv Epoc+:
+
+* Change 'Driver' to "Generic Raw Telnet Reader"
+* In 'Preferences', ensure that drift correction is disabled,
+otherwise you risk introducing synthetic signal.
+* In 'Driver Properties':
+	* input the correct number of channels
+	* input the correct sampling frequency
+	* change 'Telnet host name' to 5151
+	* change 'Endianness' to "Big endian"
+	* change 'Sample type' to "32 bits float"
+	* change 'Skip footer (bytes)' to "0"
+	* change channel names as required
+Done
